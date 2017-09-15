@@ -8,10 +8,10 @@ Currently built with Google Cloud Datastore, BigQuery, Tensorflow, Keras, for ap
     
 ### Structure
 
-|||
+|folder|description|
 |---|---|
-|`/data`| Datasets to download from, temporarily store, and eventually uploadting into BigQuery. 
 |`/download`| Functions to save responses into a Database as individual datasets in whatever format (`.csv`, `.json`, etc.)
+|`/data`| Datasets to download from, temporarily hold, and eventually upload into BigQuery (which lets us query and build real f****ing fast.) 
 | `/models`| Different deep learning models we might build. Query that dataset with Google Bigquery with models in `/models`. 
 |`/examples`| Models we're experimenting with. 
 
