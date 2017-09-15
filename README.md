@@ -2,11 +2,11 @@
 
 Maybe Deep Learning can help us trade cryptocoins better? Idk. Let's find out. 
 
-### Env
+### Setup
 
 Currently built with Google Cloud Datastore, BigQuery, Tensorflow, Keras, for application with the Kraken Exchange API.
     
-### Intro 
+### Structure
 
 |||
 |---|---|
@@ -15,7 +15,7 @@ Currently built with Google Cloud Datastore, BigQuery, Tensorflow, Keras, for ap
 | `/models`| Different deep learning models we might build. Query that dataset with Google Bigquery with models in `/models`. 
 |`/examples`| Models we're experimenting with. 
 
-### Data
+### Sources
 
 We intend to use the following datasets at present, and then scale up from there!
 
