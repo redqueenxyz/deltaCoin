@@ -1,5 +1,7 @@
 ## predCoin
 
+![](design/logo.png)
+
 Maybe Deep Learning can help us trade cryptocoins better? Idk. Let's find out. 
 
 ### Setup
