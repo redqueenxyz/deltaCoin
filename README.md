@@ -1,4 +1,4 @@
-## predCoin
+## deltaCoin
 
 ![](design/logo.png)
 
